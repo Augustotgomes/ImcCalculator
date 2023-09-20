@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Calculadora IMC
+Calculadora de IMC feita como projeto de entrega para o BootCamp de Flutter da DIO :smiley: .
